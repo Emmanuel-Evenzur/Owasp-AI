@@ -487,9 +487,9 @@ langgraph-sdk==0.1.48 ; python_version >= "3.11" and python_version < "4.0" \
 langgraph==0.2.60 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:0c454a04f358e8eb0d75cf05d129ae7d10fce1bda1b53d328ec346c718d57e56 \
     --hash=sha256:24d1779e0506de5f8de57ffc7422f176a5f42caa342b8f8492a9a1763f8f9f48
-langsmith==0.2.7 ; python_version >= "3.11" and python_version < "4.0" \
-    --hash=sha256:0996d12622b56ff21414ab8b5c16cbe3ff389a3668fa3fd1d82475bd57e5bc9e \
-    --hash=sha256:ae7a0620e9fc4da2b2e4ef7beccdadb0f9009cca0fd71ac08d372660639e2fab
+langsmith==0.6.0; python_version >= "3.11" and python_version < "4.0" \
+    --hash=sha256:b60f1785aed4dac5e01f24db01aa18fa1af258bad4531e045e739438daa3f8c2 \
+    --hash=sha256:f7570175aed705b1f4c4dae724c07980a737b8b565252444d11394dda9931e8c
 marshmallow==3.23.2 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:bcaf2d6fd74fb1459f8450e85d994997ad3e70036452cbfa4ab685acb19479b3 \
     --hash=sha256:c448ac6455ca4d794773f00bae22c2f351d62d739929f761dce5eacb5c468d7f
